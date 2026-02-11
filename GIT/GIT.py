@@ -7,3 +7,4 @@ print('Shay Task C')
 =======
 print('Roshard Task C')
 >>>>>>> aab26b8ded3680e2cb60f304a2c0032b595ff870
+
